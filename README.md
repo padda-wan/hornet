@@ -1,6 +1,26 @@
 # Hornet
 Hornet keyboard build instructions
 
+## Documentation Progress
+[] Complete steps 
+[] Deep dive into process
+[] Update Requirements
+[] Add more Pictures
+[] Add in depth instructions
+
+## V2 Progress/ideas
+[] better feet(rubber ones)
+[] better switch(it's hard to reach)
+[] thinner case
+[] better key switches
+[] lower profile keys
+[] possibly use a pcb
+[] tenting feet
+[] move mcu closer to the edge of the case
+[] add e ink display
+[] add rotary encoder?
+[] add analog for mouse
+
 ## Preface
 This keyboard was the first self designed and implemented keyboard that's been my daily driver for the last two years. I'm currently in the process of creating the second version that should include a few improvements over the original. 
 
