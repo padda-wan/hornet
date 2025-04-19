@@ -43,5 +43,8 @@ This keyboard was the first self designed and implemented keyboard that's been m
 <img src="public/1.png" alt="" width="800">
 <img src="public/2.jpeg" alt="" width="800">
 
+## Onshape Link
+[Hornet]( https://cad.onshape.com/documents/1046e76c0b6bfc0d994d6801/w/c817a671344719c27eeb4cdd/e/564946c69633315976b61c4a?renderMode=0&uiState=6803defccd103a40dd717e56 )
+
 ## Instructions
 [Hand-wire Instructions](https://johannes-jansson.github.io/projects/2018/07/23/hand-wiring-lets-split.html)
