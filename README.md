@@ -26,6 +26,10 @@ Hornet keyboard build instructions
 This keyboard was the first self designed and implemented keyboard that's been my daily driver for the last two years. I'm currently in the process of creating the second version that should include a few improvements over the original. 
 
 - the keyboard was built from a cheap generic mechanical keyboard bought on sale.
+<img src="public/images/2.png" alt="" width="800">
+<img src="public/images/3.png" alt="" width="800">
+<img src="public/images/4.png" alt="" width="800">
+
 - generic MX cherry chinese knock off switches are used
 - cheap low power controllers are used
 - runs on battery power 
@@ -41,8 +45,8 @@ This keyboard was the first self designed and implemented keyboard that's been m
 5. There are a few other things like wires and diodes that you need to buy
 
 ## Pictures
-<img src="public/1.png" alt="" width="800">
-<img src="public/2.jpeg" alt="" width="800">
+<img src="public/images/1.png" alt="" width="800">
+<img src="public/images/2.jpeg" alt="" width="800">
 
 ## Onshape Link
 [Hornet]( https://cad.onshape.com/documents/1046e76c0b6bfc0d994d6801/w/c817a671344719c27eeb4cdd/e/564946c69633315976b61c4a?renderMode=0&uiState=6803defccd103a40dd717e56 )
