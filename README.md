@@ -26,9 +26,9 @@ Hornet keyboard build instructions
 This keyboard was the first self designed and implemented keyboard that's been my daily driver for the last two years. I'm currently in the process of creating the second version that should include a few improvements over the original. 
 
 - the keyboard was built from a cheap generic mechanical keyboard bought on sale.
-<img src="public/images/2.png" alt="" width="800">
 <img src="public/images/3.png" alt="" width="800">
 <img src="public/images/4.png" alt="" width="800">
+<img src="public/images/5.png" alt="" width="800">
 
 - generic MX cherry chinese knock off switches are used
 - cheap low power controllers are used
